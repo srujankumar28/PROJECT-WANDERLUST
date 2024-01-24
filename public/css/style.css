@@ -146,5 +146,6 @@ body {
 
 #map {
     height: 400px;
-    width: 88vh;
+    width: 400px;
+    border: 2px solid black;
 }

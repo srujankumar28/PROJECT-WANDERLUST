@@ -127,5 +127,5 @@ app.use((err, req, res, next) => {
 
 
 app.listen(8080, () => {
-    console.log("Server is listening to the port");    // CONFIRMATION THAT SERVER IS RUNNING
+    console.log("Server is listening to the port");    
 });
